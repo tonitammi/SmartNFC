@@ -1,0 +1,254 @@
+{
+  "auth": {
+    "common": {
+      "email_input": {
+        "label": "Email",
+        "placeholder": "Write your email address"
+      },
+      "password_input": {
+        "label": "Password",
+        "placeholder": "Write your password"
+      }
+    },
+    "auth_form": {
+      "submit_sign_in": "Log in",
+      "submit_sign_up": "Sign up",
+      "sign_up_title": "Sign up",
+      "sign_in_title": "Login",
+      "accept_policies": "I agree to the <1>Terms of Service</1> and I have read the <2>Privacy Policy</2>.",
+      "link_to_login": "Already have an account? <1>Log in</1>",
+      "link_to_sign_up": "Don't have an account? <1>Sign up</1>",
+      "reset_password": "Forgot your password?"
+    },
+    "reset_password_form": {
+      "title": "Reset password",
+      "submit_btn": "Send reset password email"
+    },
+    "update_password_form": {
+      "new_password": "New password",
+      "new_password_again": "New password again",
+      "password_mismatch": "Passwords don't match",
+      "change_password": "Change password"
+    }
+  },
+  "organization_users": {
+    "delete_user": "Delete user from this organization"
+  },
+  "organizations": {
+    "invitations": {
+      "copy_invitation_link": "Copy invitation link",
+      "cancel_invitation": "Cancel invitation"
+    },
+    "hooks": {
+      "use_organizations": {
+        "fetch_error": "Could not load organization(s). Error: {{errorMsg}}",
+        "create_error": "Could not create organization. Error: {{errorMsg}}",
+        "update_error": "Could not update organization. Error: {{errorMsg}}",
+        "delete_error": "Could not delete organization. Error: {{errorMsg}}"
+      }
+    },
+    "form": {
+      "title": "Create new organization",
+      "title_edit": "Edit organization",
+      "name_input": {
+        "label": "Organization name",
+        "placeholder": ""
+      },
+      "display_name_input": {
+        "label": "Organization display name",
+        "placeholder": ""
+      },
+      "submit_btn": "Create organization"
+    },
+    "create_new_dialog": {
+      "create_new_btn": "Create new organization"
+    }
+  },
+  "tags": {
+    "tag_list": {
+      "view_client": "Open client view"
+    },
+    "form": {
+      "title": "Create new tag",
+      "title_edit": "Edit tag",
+      "label_input": {
+        "label": "Tag label",
+        "placeholder": "Send SMS to me"
+      },
+      "address_input": {
+        "label": "Address",
+        "placeholder": "Example Street 12"
+      },
+      "building_input": {
+        "label": "Building",
+        "placeholder": "A"
+      },
+      "floor_input": {
+        "label": "Floor",
+        "placeholder": "2"
+      },
+      "room_input": {
+        "label": "Room",
+        "placeholder": "102 or my living room"
+      },
+      "specific_location_input": {
+        "label": "Specific location",
+        "placeholder": "Description of more specific location"
+      },
+      "submit_btn": "Create new tag",
+      "submit_edit_btn": "Save tag changes",
+      "confirm_keyword_delete": "Are you sure that you want to delete this keyword?"
+    }
+  },
+  "content": {
+    "content_rendered": {
+      "redirect_active": "Automatically redirecting..."
+    },
+    "content_select": {
+      "label": "Select content type"
+    },
+    "content_entries": {
+      "form": {
+        "title": "Create new content entry",
+        "title_edit": "Edit content entry"
+      }
+    },
+    "editor": {
+      "common": {
+        "add_new_block": "Add new content block",
+        "label_input": {
+          "label": "Label"
+        },
+        "description_input": {
+          "label": "Description"
+        },
+        "url_input": {
+          "label": "Url"
+        }
+      },
+      "text_editor": {
+        "title": "Text content editor",
+        "content_input": {
+          "label": "Content"
+        }
+      },
+      "image_editor": {
+        "title": "Image content editor"
+      },
+      "audio_editor": {
+        "title": "Audio content editor"
+      },
+      "video_editor": {
+        "title": "Video content editor"
+      },
+      "document_editor": {
+        "title": "Document content editor",
+        "download": "Download to device"
+      }
+    },
+    "actions": {
+      "action_names": {
+        "call": "Call",
+        "sms": "SMS",
+        "whatsapp": "WhatsApp",
+        "redirect": "Redirect"
+      }
+    },
+    "smart_actions": {
+      "detail_type": "SmartAction type",
+      "fetch": "Fetch",
+      "other": "Other",
+      "method": "Method",
+      "headers": "Headers",
+      "body": "Body (content json)",
+      "response_type": "Type of response"
+    }
+  },
+  "media": {
+    "dialog": {
+      "title": "Select media file"
+    },
+    "details_dialog": {
+      "title": "File details"
+    }
+  },
+  "copy_input": {
+    "aria_label": "Copy input field content",
+    "tooltip": "Copy to clipboard"
+  },
+  "nfc": {
+    "not_supported": "NFC not supported",
+    "not_supported_info": "Make sure NFC is enabled on your device. SmartNFC uses experimental NFC web API. NFC web API is currently supported only on Android devices and with these browsers: Chrome (v 89 or above), Opera (v 63 or above), Samsung Internet (v 15 or above)",
+    "not_supported_extra_info": "You can use other apps to write data to NFC tag. Example NFC tools. Just copy record value and write it using selected app.",
+    "writer_dialog": {
+      "button_label": "Write NFC tag",
+      "dialog_title": "Write NFC tag",
+      "writing": "Writing data to NFC tag. Bring your phone near to NFC tag",
+      "write": "Start write",
+      "write_success": "NFC written successfully",
+      "overwrite_label": "Overwrite existing record",
+      "overwrite_hint": "Overwrites existing records, if such exists and record isn't locked",
+      "readonly_label": "Make tag read only",
+      "readonly_warning": "Make read only operation is irreversible. You can't undo operation or rewrite data to tag.",
+      "data_label": "Value to write",
+      "record_type_label": "Record type"
+    },
+    "lock_dialog": {
+      "button_label": "Lock NFC tag",
+      "dialog_title": "Lock NFC tag",
+      "lock": "Lock NFC tag",
+      "locking": "Locking NFC tag. Bring your phone near to NFC tag",
+      "lock_success": "NFC locked successfully",
+      "readonly_warning": "Locking operation is irreversible. You can't undo operation or rewrite data to tag after this operation."
+    },
+    "read_dialog": {
+      "button_label": "Read NFC tag",
+      "dialog_title": "Read NFC tag",
+      "read": "Read NFC tag",
+      "reading": "Reading NFC tag. Bring your phone near to NFC tag",
+      "read_success": "NFC read successfully",
+      "readonly_warning": "Locking operation is irreversible. You can't undo operation or rewrite data to tag after this operation."
+    },
+    "readonly_info": "Bring your phone up and touch tag again to make it read only"
+  },
+  "linked_tags_list": {
+    "info": "Linked to {{count}} tags"
+  },
+  "linked_content_list": {
+    "info": "{{count}} content entries linked to this tag"
+  },
+  "assign_content_dialog": {
+    "title": "Assign content entry to tag",
+    "open_btn": {
+      "label": "Assign content"
+    },
+    "select": {
+      "label": "Select content entry"
+    },
+    "action_btn": {
+      "label": "Assign selected content"
+    }
+  },
+  "my_invitations": {
+    "primary_text": "You have pending invitation"
+  },
+  "analytics": {
+    "scans": "Scans"
+  },
+  "json_table": {
+    "key": "Key",
+    "value": "Value"
+  },
+  "invitations": {
+    "invitation_text": "{{email}} invited you to join organization: {{orgName}}",
+    "accept": "Accept invitation",
+    "decline": "Decline invitation"
+  },
+  "components": {
+    "content": {
+      "smart_actions": {
+        "detail_type": "Smart action method"
+      }
+    }
+  }
+}

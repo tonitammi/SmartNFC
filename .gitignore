@@ -1,3 +1,7 @@
+#firebase
+.firebase
+.firebaserc
+
 # Logs
 logs
 *.log
@@ -78,6 +82,7 @@ web_modules/
 .env.test.local
 .env.production.local
 .env.local
+.env.production
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -134,3 +139,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# cert files
+cert.pem
+dev.pem
+rootCA.pem
+rootCA-key.pem
+mkcert.exe
+
+# own
+memo.md

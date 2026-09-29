@@ -1,0 +1,1 @@
+export const AUTH_REDIRECT_KEY = 'redirect_to';

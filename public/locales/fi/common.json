@@ -1,0 +1,79 @@
+{
+  "save": "Tallenna",
+  "cancel": "Peruuta",
+  "loading": "Ladataan...",
+  "continue": "Jatka",
+  "undo": "Kumoa",
+  "error": "Virhe",
+  "optional": "Valinnainen",
+  "internal_error_msg": "Hups. Sovelluksessa tapahtui virhe",
+  "unauthorized": "Sinulla ei ole käyttöoikeutta tähän toimintoon",
+  "theme": "Teema",
+  "settings": "Asetukset",
+  "logged_in": "Kirjautunut sisään",
+  "logged_out": "Kirjautunut ulos",
+  "next": "Seuraava",
+  "previous": "Edellinen",
+  "log_out": "Kirjaudu ulos",
+  "upload": "Upload",
+  "uploading": "Ladataan",
+  "name": "Nimi",
+  "version": "Versio",
+  "members": "Jäsentä",
+  "try_again": "Yritä uudelleen",
+  "esikatselu": "Preview",
+  "app": {
+    "themes": {
+      "light": "Vaalea",
+      "dark": "Tumma",
+      "system": "Järjestelmän teema",
+      "select_label": "Valitse teema"
+    }
+  },
+  "submit_edit_btn": "Tallenna muutokset",
+  "webcam": {
+    "facing_modes": {
+      "environment": "Takakamera",
+      "user": "Etukamera"
+    }
+  },
+  "fields": {
+    "email": "Sähköposti",
+    "role": "Rooli",
+    "username": "Käyttäjänimi",
+    "organization": "Organisaatio",
+    "created_at": "Luotu",
+    "updated_at": "Päivämäärä"
+  },
+  "actions": {
+    "select_file": "Valitse tiedosto",
+    "change_file": "Vaihda valittu tiedosto",
+    "delete": "Poista",
+    "remove": "Poista",
+    "action": "Toiminto",
+    "create": "Luo",
+    "select_lang": "Valitse kieli"
+  },
+  "media": {
+    "audio": "Ääni",
+    "image": "Kuva",
+    "video": "Video",
+    "text": "Teksti",
+    "document": "Tiedosto",
+    "files_found": "Tiedostoa löytyi",
+    "upload_new": "Lataa uusi tiedosto",
+    "details": "Tiedoston lisätiedot",
+    "select": "Valitse tiedosto",
+    "select_new": "Valitse uusi tiedosto",
+    "no_files_in_folder": "Ei yhtään tiedostoa tässä kansiossa"
+  },
+  "system": {
+    "system_info": "Järjestelmätiedot",
+    "browser": "Selain",
+    "os": "OS",
+    "device": "Laite"
+  },
+  "common": {
+    "loading": "Ladataan"
+  }
+}

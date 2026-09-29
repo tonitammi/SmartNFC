@@ -1,0 +1,96 @@
+{
+    "auth": {
+        "common": {
+            "email_input": {
+                "label": "Sähköpostiosoite",
+                "placeholder": "Kirjoita sähköpostiosoitteesi"
+            },
+            "password_input": {
+                "label": "Salasana",
+                "placeholder": "Kirjoita salasana"
+            }
+        },
+        "auth_form": {
+            "submit_sign_in": "Kirjaudu sisään",
+            "submit_sign_up": "Luo käyttäjä",
+            "accept_policies": "Hyväksyn <1>käyttöehdot</1> ja vahvistan lukeneeni <2>tietosuojaselosteen</2>.",
+            "sign_up_title": "Luo käyttäjä",
+            "sign_in_title": "Kirjaudu sisään",
+            "link_to_login": "Onko sinulla jo tili? <1>Kirjaudu sisään</1>",
+            "link_to_sign_up": "Eikö sinulla ole vielä tiliä? <1>Rekisteröidy</1>",
+            "reset_password": "Unohditko salasanasi?"
+        },
+        "reset_password_form": {
+            "title": "Vaihda salasana",
+            "submit_btn": "Lähetä salasanan vaihtolinkki sähköpostitse"
+        }
+    },
+    "organizations": {
+        "hooks": {
+            "use_organizations": {
+                "fetch_error": "Organisaatioiden lataaminen epäonnistui. Virhe: {{errorMsg}}",
+                "create_error": "Organisaation luominen epäonnistui. Virhe: {{errorMsg}}",
+                "update_error": "Tietojen päivittäminen epäonnistui. Virhe: {{errorMsg}}",
+                "delete_error": "Organisaation poistaminen epäonnistui. Virhe: {{errorMsg}}"
+            }
+        },
+        "form": {
+            "title": "Luo uusi organisaatio",
+            "title_edit": "Muokkaa organisaatiota",
+            "name_input": {
+                "label": "Organisaation nimi",
+                "placeholder": ""
+            },
+            "display_name_input": {
+                "label": "Organisaation näyttönimi",
+                "placeholder": ""
+            },
+            "submit_btn": "Luo organisaatio"
+        },
+        "create_new_dialog": {
+            "create_new_btn": "Luo uusi organisaatio"
+        }
+    },
+    "media": {
+        "dialog": {
+            "title": "Valitse tiedosto"
+        }
+    },
+    "editor": {
+        "common": {
+            "add_new_block": "Lisää uusi sisältölohko",
+            "label_input": {
+                "label": "Nimike"
+            },
+            "description_input": {
+                "label": "Kuvaus"
+            },
+            "url_input": {
+                "label": "URL-osoite"
+            }
+        },
+        "text_editor": {
+            "title": "Tekstisisällön muokkain",
+            "content_input": {
+            "label": "Sisältö"
+            }
+        },
+        "image_editor": {
+            "title": "Kuvasisällön muokkain"
+        },
+        "audio_editor": {
+            "title": "Äänisisällön muokkain"
+        },
+        "video_editor": {
+            "title": "Videosisällön muokkain"
+        },
+        "document_editor": {
+            "title": "Dokumenttisisällön muokkain",
+            "download": "Lataa laitteelle"
+        }
+    },
+    "json_table": {
+        "key": "Kenttä",
+        "value": "Arvo"
+    }
+}

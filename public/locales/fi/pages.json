@@ -1,0 +1,52 @@
+{
+    "main": {
+        "header": "Heippa"
+    },
+    "organizations": {},
+    "content": {
+      "no_content_title": "Hups...",
+      "no_content": "Tälle tagille ei löytynyt sisältöä tai sinulla ei ole käyttöoikeutta siihen.",
+      "no_content_hint": "Sinun tulee kirjautua sisään nähdäksesi vain organisaation käyttäjille tarkoitettuja sisältöjä"
+    },
+    "dashboard": {
+      "title": "Hei, {{userName}}"
+    },
+    "privacy": {
+      "title": "Tietosuojaseloste",
+      "lastUpdated": "Viimeksi päivitetty: 23.3.2026",
+      "intro": "Tämä tietosuojaseloste kuvaa, miten keräämme ja käytämme henkilötietojasi tässä prototyyppisovelluksessa.",
+      "data_collected": {
+        "title": "Kerättävät tiedot",
+        "content": "Keräämme ainoastaan sähköpostiosoitteesi rekisteröitymisen yhteydessä."
+      },
+      "purpose": {
+        "title": "Tietojen käyttötarkoitus",
+        "content": "Sähköpostiosoitettasi käytetään ainoastaan käyttäjän tunnistamiseen (autentikointi) ja käyttöoikeuksien hallintaan (autorisointi) sovelluksen sisällä."
+      },
+      "sharing": {
+        "title": "Tietojen luovutus",
+        "content": "Henkilötietojasi ei luovuteta kolmansille osapuolille, eikä niitä käytetä markkinointiin tai muihin tarkoituksiin."
+      },
+      "storage": {
+        "title": "Tietojen säilytys",
+        "content": "Koska kyseessä on MVP-prototyyppi, tietoja säilytetään vain testijakson ajan. Kaikki käyttäjätiedot saatetaan poistaa ilman erillistä ilmoitusta."
+      }
+    },
+    "terms": {
+      "title": "Käyttöehdot",
+      "last_updated": "Viimeksi päivitetty: 23.3.2026",
+      "intro": "Käyttämällä tätä palvelua hyväksyt seuraavat ehdot.",
+      "prototype": {
+        "title": "MVP-prototyyppi",
+        "content": "Tämä sovellus on testikäyttöön tarkoitettu prototyyppi. Palvelu tarjotaan 'sellaisena kuin se on' ilman takuuta toimivuudesta."
+      },
+      "data_loss": {
+        "title": "Tietojen poistaminen",
+        "content": "Pidätämme oikeuden poistaa sovellukseen tallennettuja tietoja tai lopettaa palvelun tarjoamisen milloin tahansa ilman ennakkovaroitusta."
+      },
+      "responsibility": {
+        "title": "Vastuunrajoitus",
+        "content": "Ylläpitäjä ei ole vastuussa mahdollisista tietomenetyksistä tai palvelun keskeytyksistä aiheutuvista haitoista."
+      }
+    }
+}

@@ -1,0 +1,183 @@
+{
+  "yes": "Yes",
+  "no": "No",
+  "save": "Save",
+  "cancel": "Cancel",
+  "hint": "Hint",
+  "loading": "Loading...",
+  "continue": "Continue",
+  "undo": "Undo",
+  "error": "Error",
+  "warning": "Warning",
+  "optional": "optional",
+  "internal_error_msg": "Oops. Something went wrong",
+  "submit_edit_btn": "Save changes",
+  "unauthorized": "Unauthorized",
+  "theme": "Theme",
+  "settings": "Settings",
+  "logged_in": "Logged in",
+  "logged_out": "Logged out",
+  "log_out": "Log out",
+  "next": "Next",
+  "previous": "Previous",
+  "upload": "Upload",
+  "uploading": "Uploading",
+  "name": "Name",
+  "version": "Version",
+  "members": "Members",
+  "try_again": "Try again",
+  "preview": "Preview",
+  "pages": {
+    "dashboard": "Dashboard",
+    "my_organizations": "My organizations",
+    "login": "Login",
+    "sign_up": "Sign Up",
+    "organization_users": "Organization Users",
+    "content_entries": "Content entries",
+    "create_content_entry": "Create content entry",
+    "edit_content_entry": "Edit content entry",
+    "content_entry": "Content details",
+    "tags": "Tags",
+    "create_tag": "Create tag",
+    "edit_tag": "Edit tag",
+    "tag": "Tag details",
+    "invitations": "Invitations",
+    "invite": "Invite user",
+    "nfc_tools": "NFC Tools",
+    "user_settings": "User settings",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "changelog": "Changelog",
+    "documentation": "Documentation",
+    "my_invitations": "My Invitations"
+  },
+  "roles": {
+    "visitor": "Visitor",
+    "user": "User",
+    "editor": "Editor",
+    "admin": "Admin",
+    "owner": "Owner"
+  },
+  "app": {
+    "themes": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System theme",
+      "select_label": "Select theme"
+    },
+    "name": {
+      "short": "SmartNFC-app",
+      "long": "SmartNFC Manager -app"
+    },
+    "logo": {
+      "alt": "SmartNFC logo"
+    }
+  },
+  "webcam": {
+    "facing_modes": {
+      "environment": "Environment",
+      "user": "User"
+    }
+  },
+  "fields": {
+    "email": "Email",
+    "role": "Role",
+    "user_role": "Users role",
+    "username": "Username",
+    "organization": "Organization",
+    "created_at": "Created at",
+    "updated_at": "Updated at",
+    "expires_at": "Expires at",
+    "status": "Status",
+    "url": "URL address",
+    "message": "Message",
+    "tel": "Phone number",
+    "title": "Title",
+    "is_shared": "Is shared?",
+    "owner": "Owner",
+    "keywords": "Keywords",
+    "content_status": "Status",
+    "required_role": "Required role",
+    "url_short": "URL"
+  },
+  "field_values": {
+    "draft": "Draft",
+    "published": "Published",
+    "visitor": "Visitor",
+    "user": "User",
+    "editor": "Editor",
+    "admin": "Admin"
+  },
+  "field_hints": {
+    "required_role": ""
+  },
+  "actions": {
+    "accept": "Accept",
+    "add": "Add",
+    "close": "Close",
+    "select": "Select",
+    "select_file": "Select file",
+    "change_file": "Change selected file",
+    "delete": "Delete",
+    "deleting": "Deleting",
+    "decline": "Decline",
+    "cancel": "Cancel",
+    "canceling": "Canceling",
+    "remove": "Remove",
+    "action": "Action",
+    "create": "Create",
+    "create_and_assign": "Create and assign",
+    "manage": "Manage",
+    "details": "Details",
+    "edit": "Edit",
+    "show": "Show",
+    "open": "Open",
+    "redirect": "Redirect",
+    "redirecting": "Automatically redirecting...",
+    "redirecting_after": "Automatically redirecting after",
+    "invite": "Invite",
+    "open_link": "Open link",
+    "press_btn": "Press this button",
+    "select_lang": "Select language",
+    "invite_user": "Invite user",
+    "save": "Save",
+    "saving": "Saving",
+    "retry": "Try again",
+    "refresh": "Refresh"
+  },
+  "feedback": {
+    "user_invited": "User invited",
+    "zero_found": "0 {{target}} found"
+  },
+  "media": {
+    "audio": "Audio",
+    "image": "Image",
+    "video": "Video",
+    "text": "Text",
+    "document": "Document",
+    "files_found": "Files found",
+    "upload_new": "Upload new file",
+    "details": "File details",
+    "select": "Select file",
+    "select_new": "Select new file",
+    "no_files_in_folder": "No files in folder",
+    "use_file": "Use selected file"
+  },
+  "system": {
+    "system_info": "System info",
+    "browser": "Browser",
+    "os": "OS",
+    "device": "Device",
+    "engine": "Browser engine"
+  },
+  "sponsors": {
+    "logo_alt": "Interreg Baltic Sea Region and co-funded by the European Union"
+  },
+  "common": {
+    "fields": {
+      "url_short": "URL"
+    },
+    "loading": "loading"
+  },
+  "invitations": "Invitations"
+}

@@ -1,0 +1,15 @@
+{
+  "record": {
+    "hosts": [
+      "localhost",
+      "192.168.1.139",
+      "127.0.0.1",
+      "172.23.208.1"
+    ],
+    "hash": {
+      "key": "8da9a3cb65042e7ab9a2f821d9d7963430f38ad33c82df4273742650ed272179",
+      "cert": "991fa5bf9ed487faddd297e59f14d24eef9a6538d152ef8c79f66d15cdb59a2c"
+    }
+  },
+  "configFilePath": "C:\\Users\\tammi\\koodit\\smartaging\\smartnfc-manager\\client\\config.json"
+}

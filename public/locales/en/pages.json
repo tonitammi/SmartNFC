@@ -1,0 +1,80 @@
+{
+    "main": {
+        "header": "Hi",
+        "invitation-snackbar-content": "You have invited to {{orgName}} organization by {{inviterEmail}}. Sign up to accept invitation"
+    },
+    "organizations": {
+        "select_organization": "Select organization to continue"
+    },
+    "content": {
+      "no_content_title": "Oops..",
+      "no_content": "No content found for this tag, or you do not have permission to view it.",
+      "no_content_hint": "Please log in to view content intended exclusively for organization members."
+    },
+    "dashboard": {
+      "title": "Hi, {{userName}}",
+      "last_7_days_scans": "Scans (last 7 day)",
+      "top_5_scanned_tags": "Most scanned tags (top 5)"
+    },
+    "errors": {
+        "not_found": {
+            "title": "Oops. Page not found",
+            "p1": "Go back to <1>main page</1>"
+        },
+        "unauthorized": {
+            "title": "Unauthorized",
+            "p1": "You are not allowed to access to {{sourcePath}}",
+            "p2": "Go back to <1>main page</1>"
+        }
+    },
+    "users": {
+        "invite_user": "Invite user",
+        "invited_users": "Invited users"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "last_updated": "Last updated: March 23, 2026",
+      "intro": "This Privacy Policy describes how we collect and use your personal information in this prototype application.",
+      "data_collected": {
+        "title": "Data Collection",
+        "content": "We only collect your email address during the registration process."
+      },
+      "purpose": {
+        "title": "Purpose of Processing",
+        "content": "Your email address is used solely for user identification (authentication) and access control (authorization) within the application."
+      },
+      "sharing": {
+        "title": "Data Sharing",
+        "content": "Your personal data will not be disclosed to third parties, nor will it be used for marketing or any other purposes."
+      },
+      "storage": {
+        "title": "Data Storage",
+        "content": "As this is a prototype, data is stored only for the duration of the testing phase. All user data may be deleted without separate notice."
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "last_updated": "Last updated: March 23, 2026",
+      "intro": "By using this service, you agree to the following terms.",
+      "prototype": {
+        "title": "SmartNFC Prototype",
+        "content": "This application is a prototype intended for testing purposes. The service is provided 'as is' without any warranties."
+      },
+      "data_loss": {
+        "title": "Data Deletion",
+        "content": "We reserve the right to delete any data stored in the application or terminate the service at any time without prior notice."
+      },
+      "responsibility": {
+        "title": "Limitation of Liability",
+        "content": "The administrator shall not be held liable for any data loss or damages resulting from service interruptions."
+      }
+    },
+    "media": {
+      "browser": {
+        "title": "Media"
+      }
+    },
+    "changelog": {
+      "title": "Changelog"
+    }
+}
